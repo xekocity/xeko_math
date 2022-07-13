@@ -1,3 +1,3 @@
 ## xeko_math
 
-a collection of mathematical helper functions
+A collection of mathematical helper functions in Deno | 🦕
